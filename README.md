@@ -1,0 +1,2 @@
+# amplitude-modulation-and-demodulation
+This project will cover amplitude modulation and demodulation. A normal AM  waveform is produced using a simple switching modulator circuit. The resulting  AM waveform is then demodulated using an envelope detector circuit. It  requires the students to write Matlab Code for plotting modulated, and  demodulated signals in both time and frequency domains. Evaluating the  optimum value of the time constant that minimizes the mean square error  between modulated signal and the output signal of the envelope detector. 
